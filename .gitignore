@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+venv_optical_ai/
+
+# Local data
+data/*.db
+
+# Models (too large)
+models/*.gguf
+
+# Outputs
+weekly_digest_*.md
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+- name: optics_org
+  url: https://optics.org/rss/news.xml
+
+- name: lightwave_online
+  url: https://www.lightwaveonline.com/rss
+
+- name: fierce_telecom
+  url: https://www.fiercetelecom.com/rss/xml
+
+- name: ciena_blog
+  url: https://www.ciena.com/rss.xml
+
+- name: infinera_blog
+  url: https://www.infinera.com/blog/feed/
